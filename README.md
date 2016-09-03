@@ -12,7 +12,7 @@ The tech stack for this hackathon project was definitely a representative sample
 
 
 ## Pictures
-![GitHub Logo]( ShitBit/Pictures/IMG_20160820_104638.jpg )
+![GitHub Logo](/Pictures/IMG_20160820_104638.jpg?raw=true )
 ## Tweets
 https://twitter.com/stupidhackyeg/status/767146228358479872/photo/1
 
