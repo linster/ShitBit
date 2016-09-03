@@ -16,10 +16,10 @@ https://twitter.com/stupidhackyeg/status/767146228358479872/photo/1
 https://twitter.com/stupidhackyeg/status/767024620134281217?s=03
 
 ## Pictures
+![GitHub Logo](/Pictures/Screenshot from 2016-09-03 15-00-53.png?raw=true ) 
 ![GitHub Logo](/Pictures/IMG_20160820_153013.jpg?raw=true ) 
 ![GitHub Logo](/Pictures/IMG_20160820_104638.jpg?raw=true )
 ![GitHub Logo](/Pictures/IMG_20160820_104648.jpg?raw=true ) 
-![GitHub Logo](/Pictures/Screenshot from 2016-09-03 15-00-53.png?raw=true ) 
 
 ## Epilogue
 [Nathan](https://github.com/eyesniper2) and I won 3rd place.
