@@ -14,8 +14,9 @@ The tech stack for this hackathon project was definitely a representative sample
 ## Pictures
 
 ## Tweets
-(https://twitter.com/stupidhackyeg/status/767146228358479872/photo/1)
-(https://twitter.com/stupidhackyeg/status/767024620134281217?s=03)
+[](https://twitter.com/stupidhackyeg/status/767146228358479872/photo/1)
+
+[](https://twitter.com/stupidhackyeg/status/767024620134281217?s=03)
 
 ## Epilogue
 [Nathan](https://github.com/eyesniper2) and I won 3rd place.
